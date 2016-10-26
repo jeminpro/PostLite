@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PostLite.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PostRequest" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PostHeaderKeyList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Accept, Authorization, Connection, Cookie, Content-Type, Date, Expect</Value>
+    </Setting>
+    <Setting Name="PostHeaderValueList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">application/json, application/javascript, application/xml, application/x-www-form-urlencoded, text/plain</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

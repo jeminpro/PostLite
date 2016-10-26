@@ -1,0 +1,17 @@
+D:\Workarea\PostTool\PostTool\bin\Debug\PostLite.exe.config
+D:\Workarea\PostTool\PostTool\bin\Debug\PostLite.exe
+D:\Workarea\PostTool\PostTool\bin\Debug\PostLite.pdb
+D:\Workarea\PostTool\PostTool\obj\Debug\PostLite.MainForm.resources
+D:\Workarea\PostTool\PostTool\obj\Debug\PostLite.Properties.Resources.resources
+D:\Workarea\PostTool\PostTool\obj\Debug\PostLite.csproj.GenerateResource.Cache
+D:\Workarea\PostTool\PostTool\obj\Debug\PostLite.exe
+D:\Workarea\PostTool\PostTool\obj\Debug\PostLite.pdb
+D:\Workarea\PostLite\PostLite\bin\Debug\PostLite.exe.config
+D:\Workarea\PostLite\PostLite\obj\Debug\PostLite.exe
+D:\Workarea\PostLite\PostLite\obj\Debug\PostLite.pdb
+D:\Workarea\PostLite\PostLite\obj\Debug\PostLite.csprojResolveAssemblyReference.cache
+D:\Workarea\PostLite\PostLite\obj\Debug\PostLite.MainForm.resources
+D:\Workarea\PostLite\PostLite\obj\Debug\PostLite.Properties.Resources.resources
+D:\Workarea\PostLite\PostLite\obj\Debug\PostLite.csproj.GenerateResource.Cache
+D:\Workarea\PostLite\PostLite\bin\Debug\PostLite.exe
+D:\Workarea\PostLite\PostLite\bin\Debug\PostLite.pdb
